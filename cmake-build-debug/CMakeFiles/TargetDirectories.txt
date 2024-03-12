@@ -1,3 +1,0 @@
-H:/Work & Education/Workspace/CLionProjects/Simple Shell/cmake-build-debug/CMakeFiles/Simple_Shell.dir
-H:/Work & Education/Workspace/CLionProjects/Simple Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/Work & Education/Workspace/CLionProjects/Simple Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
